@@ -34,6 +34,3 @@ class Billetes {
       System.out.println("La cantidad de monedas de 1 es: "+ monedasUno);
       }
    }
-   
-   
-   
